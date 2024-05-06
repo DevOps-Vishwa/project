@@ -1,3 +1,4 @@
+#test
 FROM tomcat:latest
 MAINTAINER "ravimore001@gmail.com"
 COPY target/LoginWebApp.war /usr/local/tomcat/webapps
